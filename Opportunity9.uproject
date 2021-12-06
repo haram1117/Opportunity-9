@@ -18,6 +18,10 @@
 			"Name": "DynamicGravityCharacter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4bc30fe2bc5f402a8f9b7a08dd1cd375"
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
